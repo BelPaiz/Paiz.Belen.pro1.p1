@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1652741585 source:d:\usuarios\belen\documentos\programacion1\paiz.belen.prog1.p1.1g\funciones.c
+	"funciones.h"
+
+1652741336 d:\usuarios\belen\documentos\programacion1\paiz.belen.prog1.p1.1g\funciones.h
+	<string.h>
+
+1652741570 source:d:\usuarios\belen\documentos\programacion1\paiz.belen.prog1.p1.1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
